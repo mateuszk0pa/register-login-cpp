@@ -9,7 +9,8 @@
     <a href="https://github.com/mateuszk0pa">
         <img src="https://img.shields.io/badge/README%20by:-mateuszk0pa-success?style=for-the-badge&logo=github"> <!--If you use this template I will be grateful for add this badge-->
         <br>
-        <img src="https://img.shields.io/github/downloads/mateuszk0pa/register-login-cpp/total?logo=github&style=for-the-badge">
+        <img src="https://img.shields.io/github/license/mateuszk0pa/readme?color=blue&logo=github&style=for-the-badge">
+        <img src="https://img.shields.io/github/downloads/mateuszk0pa/register-login-cpp/total?color=blue&logo=github&style=for-the-badge">
         <img src="https://img.shields.io/github/forks/mateuszk0pa/register-login-cpp?logo=github&style=for-the-badge">
         <img src="https://img.shields.io/github/watchers/mateuszk0pa/register-login-cpp?logo=github&style=for-the-badge">
     </a>
